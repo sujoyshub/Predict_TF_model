@@ -4,7 +4,7 @@ The objective is to builds a simple Tensorflow model to predict if customer will
 These steps are basic and foundational steps when working with tensorflow.
 
 >[!IMPORTANT]
-> Here advance cases are not considerd like preprocessing (cleaning the dataset), plot performance metrices 
+> Here advance cases are not considerd like preprocessing (cleaning the dataset), plot performance metrices and also buliding model pipeline
 
 The following sections are covered:
 
